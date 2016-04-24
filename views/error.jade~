@@ -1,5 +1,5 @@
 extends layout
-
+//new comment added for error
 block content
   h1= message
   h2= error.status
